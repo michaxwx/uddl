@@ -1,0 +1,17 @@
+{
+    "id": 1449,
+    "name": "regular blast processing",
+    "author": "Cyba",
+    "creators": ["Cyba"],
+    "verifier": "Cyba",
+    "verification": "https://youtu.be/J---aiyznGQ?si=xJREK-g5PrTtMbpm",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "No One",
+            "link": "https://youtu.be/J---aiyznGQ?si=xJREK-g5PrTtMbpm",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
