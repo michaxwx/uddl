@@ -1,0 +1,23 @@
+{
+    "id": 108,
+    "name": "mandragora",
+    "author": "ourwa",
+    "creators": ["ourwa"],
+    "verifier": "ourwa",
+    "verification": "https://youtu.be/J---aiyznGQ?si=xJREK-g5PrTtMbpm",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Jenius",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "EPermGaming",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
