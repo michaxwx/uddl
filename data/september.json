@@ -1,0 +1,17 @@
+{
+    "id": 115,
+    "name": "september",
+    "author": "donot",
+    "creators": ["donot"],
+    "verifier": "donot",
+    "verification": "https://youtu.be/J---aiyznGQ?si=xJREK-g5PrTtMbpm",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "EPermGaming",
+            "link": "https://youtu.be/J---aiyznGQ?si=xJREK-g5PrTtMbpm",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
