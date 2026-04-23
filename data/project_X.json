@@ -1,0 +1,17 @@
+{
+    "id": 1219,
+    "name": "project X",
+    "author": "emil",
+    "creators": ["emil"],
+    "verifier": "emil",
+    "verification": "https://youtu.be/J---aiyznGQ?si=xJREK-g5PrTtMbpm",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "No One",
+            "link": "https://youtu.be/FWRnHjaZk8Y?si=KBX-atduzFrldWow",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
